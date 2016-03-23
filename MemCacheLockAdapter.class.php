@@ -1,6 +1,6 @@
 <?php 
 /**
-<<<<<<< HEAD
+<dd<<<<<< HEAD
  * 使用memcache实现分布式锁
  */
 
