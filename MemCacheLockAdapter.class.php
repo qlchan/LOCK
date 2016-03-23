@@ -1,7 +1,12 @@
 <?php 
 /**
+<<<<<<< HEAD
  * 使用memcache实现分布式锁
    3333333 
+=======
+ * 1使用memcache实现分布式锁
+   444 
+>>>>>>> b65724fd4698a42d5a21946874d33689f9b01dbf
  */
 
 class MemCacheLockAdapter{
