@@ -1,7 +1,7 @@
 <?php 
 /**
  * 使用memcache实现分布式锁
- 
+   333 
  */
 
 class MemCacheLockAdapter{
